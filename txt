@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "2.0",
-    "SoftwareUrl":"https://gofile.io/d/hRivEh",
+    "SoftwareUrl":"https://store8.gofile.io/download/web/3f08a404-a2e4-4e19-9d82-61772a0bd7b2/Cs2-ESP.zip",
     "Status":"True",
     "Changelog":"[+] Made it less detcted you will prob get banned it like a month now"
 }
