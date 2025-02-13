@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.1",
-    "SoftwareUrl":"https://discord.com/channels/1339401984876478516/1339417028183719936/1339626621577068565",
+    "SoftwareVersion": "2.0",
+    "SoftwareUrl":"https://github.com/UdMan69/download/raw/refs/heads/main/Cs2-esp.zip",
     "Status":"True",
-    "Changelog":"[+] Made it less detcted"
+    "Changelog":"[+] Made it less detcted you will prob get banned it like a month now"
 }
