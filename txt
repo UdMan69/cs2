@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "2.0",
-    "SoftwareUrl":"https://github.com/UdMan69/download/raw/refs/heads/main/Cs2-esp.zip",
+    "SoftwareUrl":"https://gofile.io/d/hRivEh",
     "Status":"True",
     "Changelog":"[+] Made it less detcted you will prob get banned it like a month now"
 }
