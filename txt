@@ -1,5 +1,5 @@
 {
-    "SoftwareVersion": "1.0",
+    "SoftwareVersion": "1.1",
     "SoftwareUrl":"https://discord.com/channels/1339401984876478516/1339417028183719936/1339626621577068565",
     "Status":"True",
     "Changelog":"[+] Made it less detcted"
